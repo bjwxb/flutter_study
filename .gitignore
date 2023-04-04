@@ -11,6 +11,7 @@
 migrate_working_dir/
 .metadata
 # IntelliJ related
+pubspec.lock
 *.iml
 *.ipr
 *.iws
